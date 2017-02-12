@@ -1,11 +1,11 @@
-package Calculator;
-
 public class Calculator {
 
     public double result;
 
     public static void main(String[] args) {
 
+	
+	
     }
 
     public void sum(double a, double b)
